@@ -19,3 +19,11 @@ filter: drop-shadow(0 0 4px #89d4e5);
 .action-btn {
 color: #89d4e5;
 }
+
+.action-btn .action-icon {
+filter: drop-shadow(0 0 5px #89d4e5);
+}
+
+.action-btn .action-icon:hover {
+filter: drop-shadow(0 0 5px #fff);
+}

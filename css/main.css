@@ -9,3 +9,9 @@ html {
 .dashboard-stats {
 border-bottom: 1px dotted #89d4e5;
 }
+
+h1 {
+border-left: 1px dotted #89d4e5;
+border-bottom: 1px dotted #89d4e5;
+filter: drop-shadow(0 0 4px #89d4e5);
+}
